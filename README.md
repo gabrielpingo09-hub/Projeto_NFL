@@ -33,16 +33,3 @@ CSS3 Avançado: Layouts responsivos, flexbox, grid e animações personalizadas.
 
 JavaScript (Vanilla): Manipulação dinâmica do DOM para o campo interativo, controle de abas, painéis de exploração e atualização de status da classificação.
 
-📁 Estrutura de Arquivos
-Plaintext
-├── index.html         # Página principal com o layout e seções completas
-├── imagens/           # Recursos visuais (cards dos Super Bowls)
-└── README.md          # Documentação do projeto
-💻 Como Executar o Projeto
-Como se trata de uma aplicação web puramente estática:
-
-Clone ou baixe este repositório para o seu computador.
-
-Abra a pasta do projeto.
-
-Dê um duplo clique no arquivo index.html ou abra-o diretamente em qualquer navegador web moderno (Google Chrome, Firefox, Safari ou Microsoft Edge).
